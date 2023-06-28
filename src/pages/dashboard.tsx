@@ -73,7 +73,7 @@ export default function Dashboard() {
                flex="1" 
                gap="4"
                minChildWidth="320px"
-               align="flex-start"
+               justifyContent="flex-start"
             >
                <Box
                   p={["6","8"]}
